@@ -117,9 +117,21 @@ If you notice any issues with the transcripts or metadata, please open an issue 
 
 Here are some projects that have been built using this transcript archive:
 
-**[AI Lenny Career-Advice Chatbot + Infographic Gallery](https://lnkd.in/gddpgYWX)** by Alan Chan - An infographic gallery and AI-powered career advice chatbot built end-to-end with Manus AI. The chatbot lets you explore Lenny's podcast insights in conversational format, while the infographic gallery provides visual summaries of key episodes.
+**[Learn from Lenny](https://x.com/learnfromlenny)** - An AI agent on X that provides credible product advice based on Lenny's podcasts. Tag it to get spot-on advice with no fluff.
 
-**Claude Cowork Theme Analysis** by Lenny Rachitsky (Jan 12, 2026) - Lenny used Claude Cowork to analyze all 320+ transcripts and extract the 10 most important themes and lessons for product builders, plus the 10 most counterintuitive truths from across all episodes.
+**[Lenny Skills Database](https://refoundai.com/lenny-skills/)** by Refound AI - A searchable database of 86 actionable skills extracted from 297 podcast episodes. Learn how the best product teams actually work.
+
+**[Lenny MCP](https://lenny-mcp.onrender.com/mcp)** - A Model Context Protocol server that provides access to Lenny's podcast content for AI applications.
+
+**[Recapio - Lenny's Podcast Summaries](https://recapio.com/channel/lennyspodcast)** - AI-generated summaries, transcripts, key insights, and chat interface for Lenny's Podcast episodes.
+
+**[Lenny's Frameworks](https://lennys-frameworks.vercel.app/)** - A collection of frameworks and mental models extracted from Lenny's Podcast episodes.
+
+**[Lenny Listens](https://lenny-listens.vercel.app/)** - An interactive tool for exploring and searching Lenny's Podcast content.
+
+**[Lenny's Advice Arena](https://lennysadvicearena.lovable.app/)** - An interactive experience for exploring product advice from Lenny's Podcast.
+
+**[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
